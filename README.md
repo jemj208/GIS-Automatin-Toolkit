@@ -69,7 +69,7 @@ textGIS-Automation-Toolkit/
 │
 └── README.md
 Usage
-Each script contains a configuration section where users can define their own input paths, layer names, fields and output locations.
+Each script contains a configuration section where users can define their own input paths, layer names, fields, and output locations.
 Example:
 OUTPUT_FOLDER = r"C:\path\to\output"
 The scripts are intended to be executed within an ArcGIS Pro Python environment when ArcPy functionality is required.
@@ -78,4 +78,4 @@ No organizational, project-specific, or proprietary GIS data is included in this
 All published scripts use generic paths and parameters so they can be adapted to different GIS projects and datasets.
 About
 Created by Amjad Almarwani.
-GIS Specialist interested in spatial analysis, GIS automation, Python, remote sensing and GeoAI.
+GIS Specialist interested in spatial analysis, GIS automation, Python, remote sensing, and GeoAI.
